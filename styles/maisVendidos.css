@@ -1,0 +1,17 @@
+.texto__vendidos {
+    color: var(--laranja);
+    background-color: var(--branco);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1em 0 0.5 0;
+}
+
+.botoes__ancora__autora {
+    background-color: var(--laranja);
+    padding: 1em 2.18em;
+    color: var(--branco);
+    font-weight: 700;
+    text-decoration: none;
+}
